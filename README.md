@@ -1,2 +1,2 @@
 # Rubic-Cube-Timer
-Rubic Cube Timer WCA Rules
+Rubic Cube Timer with WCA Rules
